@@ -14,7 +14,8 @@ Ik heb de website MHC Lelystad getest. MHC Lelystad is een hockeyvereniging en o
 ## Lighthouse Accessibility testresultaat.
 <img width="750" alt="Scherm­afbeelding 2023-10-16 om 11 49 39" src="https://github.com/Lmikkers/the-client-website/assets/94455811/d98dcbff-fc4a-4111-a78d-0871ae3cce1c">
 
-In de Lighthouse Accessibility zijn de volgende bevindingen uitgekomen. 
+
+In de Lighthouse Accessibility zijn de volgende bevindingen uitgekomen:
 
 **Afbeeldingen:** Voeg beschrijvende tekst(alt) toe aan afbeeldingen zodat mensen die niet kunnen zien, weten wat erop staat.
 

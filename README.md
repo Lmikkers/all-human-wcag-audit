@@ -16,13 +16,13 @@ Ik heb de website MHC Lelystad getest. MHC Lelystad is een hockeyvereniging en o
 
 In de Lighthouse Accessibility zijn de volgende bevindingen uitgekomen. 
 
-Afbeeldingen: Voeg beschrijvende tekst(alt) toe aan afbeeldingen zodat mensen die niet kunnen zien, weten wat erop staat.
+**Afbeeldingen:** Voeg beschrijvende tekst(alt) toe aan afbeeldingen zodat mensen die niet kunnen zien, weten wat erop staat.
 
-Links: Geef links duidelijke namen in plaats van algemene woorden zoals "Lees meer". Zo weten mensen waar de link naartoe leidt.
+**Links:** Geef links duidelijke namen in plaats van algemene woorden zoals "Lees meer". Zo weten mensen waar de link naartoe leidt.
 
-Formulieren: Zorg ervoor dat elk invulveld in een formulier een duidelijke naam heeft, zodat mensen begrijpen welke informatie ze moeten invullen.
+**Formulieren:** Zorg ervoor dat elk invulveld in een formulier een duidelijke naam heeft, zodat mensen begrijpen welke informatie ze moeten invullen.
 
-Koppen: Gebruik koppen in een logische volgorde, van groot naar klein, om de structuur van de tekst aan te geven.
+**Koppen:** Gebruik koppen in een logische volgorde, van groot naar klein, om de structuur van de tekst aan te geven.
 
 Door deze eenvoudige aanpassingen wordt de website makkelijker te begrijpen en te gebruiken voor iedereen, inclusief mensen met beperkingen.
 
